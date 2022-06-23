@@ -3,6 +3,9 @@
 ### Scripts
 
 - `gen_etab_isochron_CH.py` : Génère des zones isochrones de 5, 15, 30 minutes en utilisant OpenRouteService API autours des Centres Hospitaliers, Centres Hospitaliers Régional et les ex Hopitaux Locaux.
+<p align="center">
+⚠️ MISSING PERSONAL TOKEN `Authorization: XXXXXXX` ⚠️
+</p>
 
 -  `med_dep_HdF.py` : Process le dataset des médecins de l'annuaire santé (Code postaux des départements HdF) pour corriger les colonnes *Commune, code_insee, Code INSEE Département, Code INSEE Région, lat, long* à l'aide de l'API https://adresse.data.gouv.fr/
 
